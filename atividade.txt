@@ -1,2 +1,4 @@
 alteração inicial
 primeira alteração
+
+Segunda alteração
